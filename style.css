@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+  font-family: 'Lobster Two', cursive;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -338,4 +341,5 @@ footer{
         margin-top: 30px;
 }
 }
+
 
